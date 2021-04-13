@@ -1,2 +1,0 @@
-# GraphQLandApollo
-Learning nodejs
